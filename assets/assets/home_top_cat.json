@@ -1,0 +1,42 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": [
+    {
+      "id": 31,
+      "pid": 0,
+      "cate_name": "汉堡系列",
+      "pic": "",
+      "big_pic": "",
+      "children": [
+        {
+          "id": 32,
+          "cate_name": "超值汉堡套餐",
+          "pic": "",
+          "big_pic": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "pid": 0,
+      "cate_name": "套餐",
+      "pic": "",
+      "big_pic": "",
+      "children": [
+        {
+          "id": 29,
+          "cate_name": "特色套餐",
+          "pic": "",
+          "big_pic": ""
+        },
+        {
+          "id": 26,
+          "cate_name": "混合式精選套餐",
+          "pic": "",
+          "big_pic": ""
+        }
+      ]
+    }
+  ]
+}

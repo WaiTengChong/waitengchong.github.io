@@ -1,0 +1,74 @@
+{
+  "title": "套餐",
+  "value":"meal1",
+  "children": [
+    {
+      "title": "飲品",
+      "maxSelectedCount": 1,
+      "children": [
+        {
+          "title": "可樂",
+          "value": "1-1",
+          "type": "drinks",
+          "price": 0,
+          "isSelected": false
+        },
+        {
+          "title": "雪碧",
+          "value": "1-2",
+          "type": "drinks",
+          "price": 0,
+          "isSelected": false
+        },
+        {
+          "title": "即磨咖啡",
+          "value": "1-3",
+          "type": "drinks",
+          "price": 18,
+          "isSelected": false
+        },
+        {
+          "title": "皇室奶茶",
+          "value": "1-4",
+          "type": "drinks",
+          "price": 18,
+          "isSelected": false
+        }
+      ]
+    },
+    {
+      "title": "牛扒",
+      "maxSelectedCount": 1,
+      "children": [
+        {
+          "title": "三成",
+          "value": "2-1",
+          "type": "steak",
+          "price": 0,
+          "isSelected": false
+        },
+        {
+          "title": "五成",
+          "value": "2-2",
+          "type": "steak",
+          "price": 0,
+          "isSelected": false
+        },
+        {
+          "title": "七成",
+          "value": "2-3",
+          "type": "steak",
+          "price": 18,
+          "isSelected": false
+        },
+        {
+          "title": "全熟",
+          "value": "2-4",
+          "type": "steak",
+          "price": 18,
+          "isSelected": false
+        }
+      ]
+    }
+  ]
+}
